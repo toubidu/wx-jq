@@ -1,0 +1,78 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/hello/hello",
+    "pages/jiaodiantu/jiaodiantu",
+    "pages/tabchange/tabchange",
+    "pages/tabchange2/tabchange2",
+    "pages/tabchange3/tabchange3",
+    "pages/numchange/numchange",
+    "pages/cityselect/cityselect",
+    "pages/anchor/anchor",
+    "pages/pullReachForPage/pullReachForPage",
+    "pages/pullReachForEle/pullReachForEle",
+    "pages/star/star",
+    "pages/game/game",
+    "pages/jiugongge/jiugongge",
+    "pages/jiugongge2/jiugongge2",
+    "pages/jiugongge3/jiugongge3",
+    "pages/jiugongge4/jiugongge4",
+    "pages/dazhuanpan/dazhuanpan",
+    "pages/dazhuanpan2/dazhuanpan2",
+    "pages/guaguaka/guaguaka",
+    "pages/guaguaka2/guaguaka2",
+    "pages/yaoyiyao/yaoyiyao",
+    "pages/xiaoguo/xiaoguo",
+    "pages/shouxieban/shouxieban",
+    "pages/makeseal/makeseal",
+    "pages/other/other"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "wx-jq",
+    "navigationBarTextStyle":"#000000",
+    "enablePullDownRefresh":true
+  },
+  "tabBar": {
+    "color":"#333333",
+    "backgroundColor":"#ffffff",
+    "selectedColor": "#e85123",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath":"images/icon01.png",
+        "selectedIconPath": "images/icon01.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/hello/hello",
+        "iconPath": "images/icon02.png",
+        "selectedIconPath": "images/icon02.png",
+        "text": "常用"
+      },
+      {
+        "pagePath": "pages/game/game",
+        "iconPath": "images/icon03.png",
+        "selectedIconPath": "images/icon03.png",
+        "text": "抽奖"
+      },
+      {
+        "pagePath": "pages/xiaoguo/xiaoguo",
+        "iconPath": "images/icon04.png",
+        "selectedIconPath": "images/icon04.png",
+        "text": "特别"
+      },
+      {
+        "pagePath": "pages/other/other",
+        "iconPath": "images/icon05.png",
+        "selectedIconPath": "images/icon05.png",
+        "text": "其她"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  }
+}

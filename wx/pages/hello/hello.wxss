@@ -1,0 +1,15 @@
+/**index.wxss**/
+.nav{
+  border: 1px solid #1AAD16; 
+  height: 85rpx;
+   line-height: 85rpx;
+   text-align: center;
+  display: block; 
+  width: 90%; 
+  background: #1AAD16; 
+  color: #fff; 
+  border-radius: 10rpx;
+  margin-top: 50rpx;
+  margin-left: 5%;
+  font-size: 30rpx;
+}

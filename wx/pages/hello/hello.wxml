@@ -1,0 +1,44 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view>
+  <navigator class='nav' url="../tabchange/tabchange" open-type="navigate" hover-class="other-navigator-hover">tab切换效果（固定选项卡个数）</navigator>
+  </view>
+
+    <view>
+  <navigator class='nav' url="../tabchange2/tabchange2" open-type="navigate" hover-class="other-navigator-hover">tab切换效果（动态选项卡个数）</navigator>
+  </view>
+
+  <view>
+  <navigator class='nav' url="../tabchange3/tabchange3" open-type="navigate" hover-class="other-navigator-hover">tab切换效果（动态选项卡个数+锚点菜单）</navigator>
+  </view>
+
+  <view>
+  <navigator class='nav' url="../anchor/anchor" open-type="navigate" hover-class="other-navigator-hover">仿美团外卖/饿了么点餐效果（锚点定位及跳转）</navigator>
+  </view>
+
+  <view>
+  <navigator class='nav' url="../pullReachForPage/pullReachForPage" open-type="navigate" hover-class="other-navigator-hover">下拉刷新上拉加载实例（页面处理）</navigator>
+  </view>
+
+  <view>
+  <navigator class='nav' url="../pullReachForEle/pullReachForEle" open-type="navigate" hover-class="other-navigator-hover">下拉刷新上拉加载实例（元素处理）</navigator>
+  </view>
+  
+  <view>
+  <navigator class='nav' url="../jiaodiantu/jiaodiantu" open-type="navigate" hover-class="other-navigator-hover">焦点图效果</navigator>
+  </view>
+
+  <view>
+  <navigator class='nav' url="../cityselect/cityselect" open-type="navigate" hover-class="other-navigator-hover">普通/多列/时间/日期/城市选择器</navigator>
+  </view>
+
+  <view>
+  <navigator class='nav' url="../star/star" open-type="navigate" hover-class="other-navigator-hover">星星评分功能</navigator>
+  </view>
+
+  <view>
+  <navigator class='nav' url="../numchange/numchange" open-type="navigate" hover-class="other-navigator-hover">商城购买数量增减效果</navigator>
+  </view>
+
+</view>

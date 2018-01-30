@@ -1,0 +1,8 @@
+<!--pages/xiaoguo/xiaoguo.wxml-->
+<view class="container">
+
+  <view>
+    <navigator class='nav' url="../shouxieban/shouxieban" open-type="navigate" hover-class="other-navigator-hover">手写板/写字板/签字版（canvas）</navigator>
+  </view>
+
+</view>

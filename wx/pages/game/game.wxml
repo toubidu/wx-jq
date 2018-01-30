@@ -1,0 +1,40 @@
+<!--pages/game/game.wxml-->
+<view class="container">
+
+    <view>
+    <navigator class='nav' url="../guaguaka/guaguaka" open-type="navigate" hover-class="other-navigator-hover">刮刮卡抽奖（canvas奖项使用文字）</navigator>
+    </view>
+
+    <view>
+    <navigator class='nav' url="../guaguaka2/guaguaka2" open-type="navigate" hover-class="other-navigator-hover">刮刮卡抽奖（canvas奖项使用图片）</navigator>
+    </view>
+
+    <view>
+    <navigator class='nav' url="../dazhuanpan2/dazhuanpan2" open-type="navigate" hover-class="other-navigator-hover">幸运大转盘抽奖/圆形大转盘抽奖（圆盘旋转）</navigator>
+    </view>
+
+    <view>
+    <navigator class='nav' url="../dazhuanpan/dazhuanpan" open-type="navigate" hover-class="other-navigator-hover">幸运大转盘抽奖/圆形大转盘抽奖（指针旋转）</navigator>
+    </view>
+
+    <view>
+      <navigator class='nav' url="../jiugongge4/jiugongge4" open-type="navigate" hover-class="other-navigator-hover">九宫格大转盘抽奖（正式版8格奖项）</navigator>
+    </view>
+
+    <view>
+    <navigator class='nav' url="../jiugongge2/jiugongge2" open-type="navigate" hover-class="other-navigator-hover">九宫格大转盘抽奖（正式版12格奖项）</navigator>
+    </view>
+
+    <view>
+    <navigator class='nav' url="../jiugongge3/jiugongge3" open-type="navigate" hover-class="other-navigator-hover">九宫格大转盘抽奖（基础版8格奖项）</navigator>
+    </view>
+
+    <view>
+    <navigator class='nav' url="../jiugongge/jiugongge" open-type="navigate" hover-class="other-navigator-hover">九宫格大转盘抽奖（基础版12格奖项）</navigator>
+    </view>
+
+    <!-- <view>
+    <navigator class='nav' url="../yaoyiyao/yaoyiyao" open-type="navigate" hover-class="other-navigator-hover">摇一摇抽奖</navigator>
+    </view> -->
+
+</view>

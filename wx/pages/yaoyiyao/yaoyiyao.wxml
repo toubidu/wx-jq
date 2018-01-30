@@ -1,0 +1,5 @@
+<!--pages/yaoyiyao/yaoyiyao.wxml-->
+<text>待实现</text>
+<view>x：{{x}}</view>
+<view>y：{{y}}</view>
+<view>z：{{z}}</view>

@@ -1,0 +1,8 @@
+<!--pages/other/other.wxml-->
+<view class="container">
+
+  <view>
+    <navigator class='nav' url="../makeseal/makeseal" open-type="navigate" hover-class="other-navigator-hover">生成圆形印章/生成公司公章</navigator>
+  </view>
+
+</view>

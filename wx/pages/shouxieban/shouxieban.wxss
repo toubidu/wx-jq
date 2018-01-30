@@ -1,0 +1,4 @@
+/* pages/shouxieban/shouxieban.wxss */
+page{
+  background: #f6f6f6;
+}

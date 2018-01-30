@@ -1,0 +1,15 @@
+/* pages/other/other.wxss */
+.nav{
+  border: 1px solid #928437; 
+  height: 85rpx;
+   line-height: 85rpx;
+   text-align: center;
+  display: block; 
+  width: 90%; 
+  background: #928437; 
+  color: #fff; 
+  border-radius: 10rpx;
+  margin-top: 50rpx;
+  margin-left: 5%;
+  font-size: 30rpx;
+}

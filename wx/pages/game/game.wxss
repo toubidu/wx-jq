@@ -1,0 +1,15 @@
+/* pages/game/game.wxss */
+.nav{
+  border: 1px solid #3c8dbc; 
+  height: 85rpx;
+   line-height: 85rpx;
+   text-align: center;
+  display: block; 
+  width: 90%; 
+  background: #3c8dbc; 
+  color: #fff; 
+  border-radius: 10rpx;
+  margin-top: 50rpx;
+  margin-left: 5%;
+  font-size: 30rpx;
+}
