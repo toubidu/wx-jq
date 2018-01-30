@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/toubidu/wx-jq/blob/master/wx/images/logo.png)
+![image](https://github.com/toubidu/wx-jq/blob/master/wx/images/logo.png)  
 wx-jq （一套完全原创的微信小程序插件集合库）
 
 微信小程序插件，微信小程序组件，微信小程序插件集合，微信小程序组件集合，微信小程序插件学习，微信小程序插件开发，
