@@ -50,7 +50,7 @@ https://my.oschina.net/tbd/blog/1612913
 方式1.直接下载压缩包，解压    
 方式2.git工具克隆    
 
-git clone https://gitee.com/dgx/wx-jq.git    
+git clone https://github.com/toubidu/wx-jq.git   
 
 二.利用微信开发者工具创建项目，选择上面下载或者克隆目录下的wx目录（wx目录存放实际的小程序项目，如果开发工具提示没有找到xx文件就是目录选择错误）
 
