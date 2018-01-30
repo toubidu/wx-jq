@@ -44,11 +44,11 @@ https://my.oschina.net/tbd/blog/1612913
 
     插件/效果（完成）：生成圆形印章/生成公司公章  
 
-如何使用？  
+如何使用？     
 
-一.下载项目： 
-方式1.直接下载压缩包，解压  
-方式2.git工具克隆  
+一.下载项目：    
+方式1.直接下载压缩包，解压    
+方式2.git工具克隆    
 
 git clone https://gitee.com/dgx/wx-jq.git    
 
