@@ -5,11 +5,9 @@ wx-jq （一套完全原创的微信小程序插件集合库）
 
 微信小程序插件，微信小程序组件，微信小程序插件集合，微信小程序组件集合，微信小程序插件学习，微信小程序插件开发，
 
-在线演示：  
-![image](https://github.com/toubidu/wx-jq/blob/master/tpl/100347_1cf05a5b_385401.jpeg)    
+在线演示：    
+<img src="https://github.com/toubidu/wx-jq/blob/master/tpl/100347_1cf05a5b_385401.jpeg" width="300px" height="300px">
 
-查看效果截图： 
-https://my.oschina.net/tbd/blog/1612913  
 效果展示  
 
 常用分类  
@@ -68,11 +66,3 @@ https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Fbizlogin%3Faction%3D
 安装和下载开发工具：  
 https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=201818
 
-设计资源下载：  
-https://mp.weixin.qq.com/debug/wxadoc/design/?t=2017118#资源下载
-
-小程序支付：  
-https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=7_10&index=1
-
-5分钟了解：  
-https://my.oschina.net/tbd/blog/914677
